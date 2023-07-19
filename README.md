@@ -1,6 +1,7 @@
 # Variant-Nine-Men-s-Morris-Game
 
-Nine Men's Morris is a board game between two players: White and Black.
+Nine Men's Morris is a board game between two players: White and Black. There are many online imple-
+mentations available online. See, e.g., https://www.mathplayground.com/logic_nine_mens_morris.html
 
 ![morrisGame](https://github.com/JesseLee62/Variant-Nine-Men-s-Morris-Game/assets/121981619/68f11f3f-7b75-4237-841a-5f589984423f)
 ![board](https://github.com/JesseLee62/Variant-Nine-Men-s-Morris-Game/assets/121981619/45215639-7c56-498c-91b8-b3ee3ba2f6ae)
